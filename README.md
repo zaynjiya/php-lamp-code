@@ -53,6 +53,6 @@ Both the web application and the CLI application require `app/bootstrap.php` to 
 <<<<<<< HEAD
 #Adding sample comments my name is mohammad farid
 =======
-#Adding sample comments my name is zayn hello world
+#Adding sample comments my name
 >>>>>>> a79a29f709d67f665df08f8aa84233c6887dcc9c
 You will note that in both case, the controllers/commands are instantiated and invoked by PHP-DI: this is to benefit from dependency injection in those classes.
