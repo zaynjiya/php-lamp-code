@@ -51,7 +51,7 @@ Both the web application and the CLI application require `app/bootstrap.php` to 
 - the CLI application ([console.php](console.php)) uses [Silly](http://mnapoli.fr/silly/): Silly uses the container to create and invoke the commands
 
 <<<<<<< HEAD
-#Adding sample 
+#Adding sample this is my code
 =======
 #Adding sample comments
 >>>>>>> a79a29f709d67f665df08f8aa84233c6887dcc9c
